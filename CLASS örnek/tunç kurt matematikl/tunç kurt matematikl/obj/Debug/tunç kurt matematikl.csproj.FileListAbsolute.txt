@@ -1,0 +1,9 @@
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\bin\Debug\tunç kurt matematikl.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\obj\Debug\tunç kurt matematikl.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\obj\Debug\tunç_kurt_matematikl.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\obj\Debug\tunç_kurt_matematikl.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\obj\Debug\tunç kurt matematikl.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\bin\Debug\tunç kurt matematikl.exe
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\bin\Debug\tunç kurt matematikl.pdb
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\obj\Debug\tunç kurt matematikl.exe
+c:\users\lab\documents\visual studio 2013\Projects\tunç kurt matematikl\tunç kurt matematikl\obj\Debug\tunç kurt matematikl.pdb
