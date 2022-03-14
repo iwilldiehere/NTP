@@ -1,0 +1,9 @@
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\bin\Debug\tofasvarmi.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\obj\Debug\tofasvarmi.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\obj\Debug\tofasvarmi.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\obj\Debug\tofasvarmi.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\obj\Debug\tofasvarmi.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\bin\Debug\tofasvarmi.exe
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\bin\Debug\tofasvarmi.pdb
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\obj\Debug\tofasvarmi.exe
+c:\users\lab\documents\visual studio 2013\Projects\tofasvarmi\tofasvarmi\obj\Debug\tofasvarmi.pdb
