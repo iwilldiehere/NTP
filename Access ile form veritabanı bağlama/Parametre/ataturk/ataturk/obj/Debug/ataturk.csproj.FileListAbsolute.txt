@@ -1,0 +1,9 @@
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\bin\Debug\ataturk.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\obj\Debug\ataturk.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\obj\Debug\ataturk.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\obj\Debug\ataturk.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\obj\Debug\ataturk.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\bin\Debug\ataturk.exe
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\bin\Debug\ataturk.pdb
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\obj\Debug\ataturk.exe
+c:\users\lab\documents\visual studio 2013\Projects\ataturk\ataturk\obj\Debug\ataturk.pdb
