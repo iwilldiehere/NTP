@@ -1,0 +1,10 @@
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\bin\Debug\lalal.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.UyeEkle.resources
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\bin\Debug\lalal.exe
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\bin\Debug\lalal.pdb
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.exe
+c:\users\lab\documents\visual studio 2013\Projects\lalal\lalal\obj\Debug\lalal.pdb
