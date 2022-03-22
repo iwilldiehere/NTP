@@ -1,0 +1,12 @@
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\bin\Debug\telefon otom.exe.config
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\obj\Debug\telefon otom.csprojResolveAssemblyReference.cache
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\obj\Debug\telefon_otom.Form1.resources
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\obj\Debug\telefon_otom.Properties.Resources.resources
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\obj\Debug\telefon otom.csproj.GenerateResource.Cache
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\bin\Debug\telefon otom.exe
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\bin\Debug\telefon otom.pdb
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\obj\Debug\telefon otom.exe
+c:\users\lab1-bil0\documents\visual studio 2013\Projects\telefon otom\telefon otom\obj\Debug\telefon otom.pdb
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\Öğrenci Bilgi Otomasyonu\telefon otom\bin\Debug\telefon otom.exe.config
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\Öğrenci Bilgi Otomasyonu\telefon otom\obj\Debug\telefon otom.exe
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\Öğrenci Bilgi Otomasyonu\telefon otom\obj\Debug\telefon otom.pdb
