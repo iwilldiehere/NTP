@@ -1,0 +1,36 @@
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe.config
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\bin\Debug\Pizzacı.pdb
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.exe
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\bin\Debug\Pizzacı.exe.config
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\obj\Debug\Pizzacı.exe
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\obj\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\bin\Debug\Pizzacı.exe
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\bin\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\obj\Debug\Pizzacı.csprojResolveAssemblyReference.cache
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\obj\Debug\Pizzacı.Form1.resources
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\obj\Debug\Pizzacı.Properties.Resources.resources
+C:\Users\Lab1-Bil0\Desktop\pizzaOtomasyonu-master\obj\Debug\Pizzacı.csproj.GenerateResource.Cache
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\bin\Debug\Pizzacı.exe.config
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\obj\Debug\Pizzacı.exe
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\obj\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\obj\Debug\Pizzacı.csprojResolveAssemblyReference.cache
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\obj\Debug\Pizzacı.Form1.resources
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\obj\Debug\Pizzacı.Properties.Resources.resources
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\obj\Debug\Pizzacı.csproj.GenerateResource.Cache
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\bin\Debug\Pizzacı.exe
+C:\Users\Lab1-Bil0\Documents\Visual Studio 2013\Projects\pizzaOtomasyonu-master\bin\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\bin\Debug\Pizzacı.exe.config
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\obj\Debug\Pizzacı.exe
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\obj\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\bin\Debug\Pizzacı.exe
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\bin\Debug\Pizzacı.pdb
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\obj\Debug\Pizzacı.csprojResolveAssemblyReference.cache
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\obj\Debug\Pizzacı.Form1.resources
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\obj\Debug\Pizzacı.Properties.Resources.resources
+C:\Users\Lab1-Bil0\Documents\GitHub\NTP\Access ile form veritabanı bağlama\Pizza Otomasyon\pizzaOtomasyonu\obj\Debug\Pizzacı.csproj.GenerateResource.Cache
