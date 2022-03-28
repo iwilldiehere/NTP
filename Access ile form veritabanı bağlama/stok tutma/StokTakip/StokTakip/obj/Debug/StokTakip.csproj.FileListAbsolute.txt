@@ -1,0 +1,14 @@
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriEkle.resources
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriListeleme.resources
+C:\Users\LAB\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Kategori.resources
+C:\Users\LAB\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Marka.resources
+C:\Users\LAB\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.ÜrünEkle.resources

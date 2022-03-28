@@ -1,0 +1,140 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.OleDb;
+namespace StokTakip
+{
+    public partial class ÜrünEkle : Form
+    {
+        public ÜrünEkle()
+        {
+            InitializeComponent();
+        }
+        OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=StokTkp.accdb;Persist Security Info=False;");
+      
+        private void kategorigetir()
+        {
+
+            baglanti.Open();
+            OleDbCommand komut = new OleDbCommand("select * from kategoribilgileri", baglanti);
+            OleDbDataReader read = komut.ExecuteReader();
+            while (read.Read())
+            {
+                comboKategori.Items.Add(read["kategori"].ToString());
+            }
+            baglanti.Close();
+        }
+     
+        private void ÜrünEkle_Load(object sender, EventArgs e)
+        {
+            kategorigetir();
+        }
+
+        private void comboKategori_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            comboMarka.Items.Clear();
+            comboMarka.Text = null;
+            baglanti.Open();
+            OleDbCommand komut = new OleDbCommand("select * from markabilgileri where kategori='"+comboKategori.SelectedItem+"'", baglanti);
+            OleDbDataReader read = komut.ExecuteReader();
+            while (read.Read())
+            {
+                comboMarka.Items.Add(read["marka"].ToString());
+            }
+            baglanti.Close();
+        }
+
+        private void comboMarka_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnYeniEkle_Click(object sender, EventArgs e)
+        {
+            baglanti.Open();
+            OleDbCommand komut = new OleDbCommand("insert into urun(barkodno,kategori,marka,urunadi,miktari,alisfiyati,satisfiyati,tarih) values( @barkodno,@kategori,@marka,@urunadi,@miktari,@alisfiyati,@satisfiyati,@tarih)", baglanti);
+            komut.Parameters.AddWithValue("@barkodno", txtBarkodNo.Text);
+            komut.Parameters.AddWithValue("@kategori", comboKategori.Text);
+            komut.Parameters.AddWithValue("@marka", comboMarka.Text);
+            komut.Parameters.AddWithValue("@urunadi", txtÜrünAdı.Text);
+            komut.Parameters.AddWithValue("@miktari",int.Parse(txtMiktarı.Text));
+            komut.Parameters.AddWithValue("@alisfiyatı", double.Parse(txtAlışFiyatı.Text));
+            komut.Parameters.AddWithValue("@satisfiyati", double.Parse(txtSatışFiyatı.Text));
+            komut.Parameters.AddWithValue("@tarih", DateTime.Now.ToString());
+
+            komut.ExecuteNonQuery();
+            baglanti.Close();
+            MessageBox.Show("Ürün Eklenmiştir.");
+            comboMarka.Items.Clear();
+            foreach (Control item in groupBox1.Controls)
+            {
+                if (item is TextBox)
+                {
+                    item.Text = null;
+                }
+                if (item is ComboBox)
+                {
+                    item.Text = null;
+                }
+            }
+
+        
+        }
+
+        private void BarkodNotxt_TextChanged(object sender, EventArgs e)
+        {
+            if (BarkodNotxt.Text==null)
+            {
+                lblMiktar.Text = null;
+                
+                foreach (Control item in groupBox2.Controls)
+                {
+                    if (item is TextBox)
+                    {
+                        item.Text = null;
+                    }
+                }
+            }
+            
+            baglanti.Open();
+            OleDbCommand komut = new OleDbCommand("select * from urun where barkodno like '%"+BarkodNotxt.Text+"%'", baglanti);
+            OleDbDataReader read = komut.ExecuteReader();
+            while (read.Read())
+            {
+                Kategoritxt.Text=read["kategori"].ToString();
+                Markatxt.Text = read["marka"].ToString();
+                ÜrünAdıtxt.Text = read["urunadi"].ToString();
+              
+                lblMiktar.Text = read["miktari"].ToString();
+                AlışFiyatıtxt.Text = read["alisfiyati"].ToString();
+                SatışFiyatıtxt.Text = read["satisfiyati"].ToString();
+            }
+            baglanti.Close();
+        }
+
+        private void btnVarOlanaEkle_Click(object sender, EventArgs e)
+        {
+            baglanti.Open();
+            OleDbCommand komut = new OleDbCommand("update urun set miktari=miktari+'"+int.Parse(Miktarıtxt.Text)+"'where barkodno='"+BarkodNotxt.Text+"'", baglanti);
+            komut.ExecuteNonQuery();
+            baglanti.Close();
+  
+                foreach (Control item in groupBox2.Controls)
+                {
+                    if (item is TextBox)
+                    {
+                        item.Text = null;
+                    }
+                }
+                MessageBox.Show("Var olan ürüne eklenmiştir.");
+                        
+      }
+        }
+    }
+
