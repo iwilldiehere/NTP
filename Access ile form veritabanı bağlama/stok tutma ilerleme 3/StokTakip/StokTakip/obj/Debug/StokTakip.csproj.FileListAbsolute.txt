@@ -1,0 +1,43 @@
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriEkle.resources
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+c:\users\lab\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriListeleme.resources
+C:\Users\LAB\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Kategori.resources
+C:\Users\LAB\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Marka.resources
+C:\Users\LAB\documents\visual studio 2013\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.ÜrünEkle.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.Kategori.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.Marka.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriEkle.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriListeleme.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.ÜrünEkle.resources
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\LAB\Desktop\NTP-main\Access ile form veritabanı bağlama\stok tutma\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.Kategori.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.Marka.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriEkle.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.MüşteriListeleme.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.ÜrünEkle.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.ÜrünListele.resources
+C:\Users\LAB\Desktop\stok tutma - ilerleme\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
